@@ -1,4 +1,4 @@
-package goUtils
+package sort
 
 import "sync"
 
