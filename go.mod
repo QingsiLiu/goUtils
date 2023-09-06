@@ -1,4 +1,4 @@
-module goutils
+module github.com/QingsiLiu/goUtils
 
 go 1.20
 
